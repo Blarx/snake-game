@@ -42,5 +42,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Screenshots
 ![img](screens/two.png)
 ![img](screens/three.png)
-![img](screens/three.png)
+![img](screens/one.png)
 ![img](screens/four.png)
